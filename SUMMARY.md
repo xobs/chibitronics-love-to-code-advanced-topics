@@ -1,4 +1,4 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [About Love-to-Code?](about-ltc.md)
+* [Advanced Topics?](advanced.md)
